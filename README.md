@@ -20,16 +20,9 @@ I have spent over 15 years designing, scaling, and operating high-throughput ent
 
 ### 🛠️ Core Tech & Disciplines
 - **Strategy & Governance:** Enterprise Architecture Governance, Team Scaling, Agile/Scrum (PSM II), Technical Roadmaps
-- **Backend & Platforms:** Node.js, TypeScript, Go, Java / Spring, Kubernetes, Docker, AWS, GCP, Terraform
+- **Backend & Platforms:** Node.js, TypeScript, Java / Spring, Kubernetes, Docker, AWS, GCP, Terraform
 - **Data & Events:** Kafka, Event-Driven Architecture, PostgreSQL, MongoDB, Redis, API Design (REST / GraphQL / gRPC)
 - **Frontend & Modern Web:** Next.js, React, Tailwind CSS
-
----
-
-### 🌐 Featured Repositories
-- ☸️ **[kind-cluster-deployment](https://github.com/jmblanco/kind-cluster-deployment):** Local multi-node Kubernetes clusters with Kind and automated provisioning.
-- 🎬 **[media-automation-toolkit](https://github.com/jmblanco/media-automation-toolkit):** Automated tooling for multimedia workflows using Node.js.
-- 🌐 **[personal-web](https://github.com/jmblanco/personal-web):** Personal website and architecture leadership digital space (Next.js, TypeScript & Tailwind CSS).
 
 ---
 
