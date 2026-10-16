@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Jose Miguel Blanco 👋
 
-<!--
-**jmblanco/jmblanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏗️ Head of Architecture & Development | Cloud Platforms & Distributed Systems
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jmblancogarcia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/jmblancogarcia)
+[![Email](https://img.shields.io/badge/Email-jmblanco1986%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jmblanco1986@gmail.com)
+[![Role](https://img.shields.io/badge/Role-Head%20of%20Architecture%20%26%20Development-18181b?style=flat-square)](https://es.linkedin.com/in/jmblancogarcia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have spent over 15 years designing, scaling, and operating high-throughput enterprise platforms. Currently leading architecture and development strategy at **Universia Holding (Grupo Santander)**, bridging strategic corporate vision with deep hands-on roots in backend, cloud platforms, and DevOps culture.
+
+---
+
+### 🚀 Focus & Leadership
+- 🏛️ **Architecture & Distributed Systems:** Event-driven architectures, microservices, cloud migrations, and high-resilience systems design.
+- ⚙️ **Platform Engineering & DevOps:** Kubernetes, Infrastructure as Code, modern CI/CD pipelines, and developer experience (DevEx).
+- 👥 **Engineering Leadership:** Mentoring and scaling engineering teams, setting architectural standards, and fostering an engineering craft culture.
+- 💡 **Pragmatic Tech Innovation:** AI-assisted engineering workflows, modern cloud-native ecosystems, and platform automation.
+
+---
+
+### 🛠️ Core Tech & Disciplines
+- **Strategy & Governance:** Enterprise Architecture Governance, Team Scaling, Agile/Scrum (PSM II), Technical Roadmaps
+- **Backend & Platforms:** Node.js, TypeScript, Go, Java / Spring, Kubernetes, Docker, AWS, GCP, Terraform
+- **Data & Events:** Kafka, Event-Driven Architecture, PostgreSQL, MongoDB, Redis, API Design (REST / GraphQL / gRPC)
+- **Frontend & Modern Web:** Next.js, React, Tailwind CSS
+
+---
+
+### 🌐 Featured Repositories
+- ☸️ **[kind-cluster-deployment](https://github.com/jmblanco/kind-cluster-deployment):** Local multi-node Kubernetes clusters with Kind and automated provisioning.
+- 🎬 **[media-automation-toolkit](https://github.com/jmblanco/media-automation-toolkit):** Automated tooling for multimedia workflows using Node.js.
+- 🌐 **[personal-web](https://github.com/jmblanco/personal-web):** Personal website and architecture leadership digital space (Next.js, TypeScript & Tailwind CSS).
+
+---
+
+### 📫 Get in Touch
+- 💼 **LinkedIn:** [linkedin.com/in/jmblancogarcia](https://es.linkedin.com/in/jmblancogarcia)
+- ✉️ **Email:** [jmblanco1986@gmail.com](mailto:jmblanco1986@gmail.com)
